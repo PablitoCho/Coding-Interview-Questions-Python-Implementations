@@ -29,5 +29,5 @@ Here`s chapters in korean edition.
  - Chp20 : Complexity Class
  ...
  
-I am not that outstanding developer. So anyone who wants to participate in my repository and discuss better solutions will be welcomed! :)
+I am not that outstanding developer. So anyone who wants to contribute to my repository and discuss better solutions will be welcomed! :)
 davidcho785@gmail.com
