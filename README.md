@@ -28,6 +28,4 @@ Here`s chapters in korean edition.
  - Chp19 : Dynamic Programming
  - Chp20 : Complexity Class
  ...
- 
-I am not that outstanding developer. So anyone who wants to contribute to my repository and discuss better solutions will be welcomed! :)
-davidcho785@gmail.com
+
